@@ -199,3 +199,11 @@ Submitted to **Colosseum AI Agent Hackathon 2026**
 ---
 
 **Tip the world with USDC** 💸
+
+## Quickstart
+
+```bash
+npm install
+npm run start  # o revisa scripts en package.json
+```
+
